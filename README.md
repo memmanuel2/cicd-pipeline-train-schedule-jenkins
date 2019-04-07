@@ -13,4 +13,4 @@ You can run the app with:
     ./gradlew npm_start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
-I am editing the file to test if a build will be triggered
+I am editing the file to test if a build will be triggered so i can continue
